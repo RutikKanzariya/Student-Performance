@@ -13,7 +13,7 @@ This project demonstrates the complete Machine Learning lifecycle, including dat
 Add your deployment link here after deployment:
 
 ```text
-https://your-app-url.streamlit.app
+https://student-performance-ceswav6lfmucggd37qgkyi.streamlit.app/
 ```
 
 ---
